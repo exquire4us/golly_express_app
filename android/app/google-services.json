@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009944030067",
+    "project_id": "golly-express-flutter",
+    "storage_bucket": "golly-express-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009944030067:android:c2152a5b8e432ca7263306",
+        "android_client_info": {
+          "package_name": "com.example.golly_express_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmO-OAG97TqmdYdi1CKX94yFQltrd43Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
